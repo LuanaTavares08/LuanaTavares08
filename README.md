@@ -1,16 +1,18 @@
-## Hi there 👋
+### Boas vindas!!!  👋
 
-<!--
-**LuanaTavares08/LuanaTavares08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Luana Tavares 
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos 
+
+### você pode entrar em contato comigo 📫
+00001128243118sp@al.educacao.sp.gov.br
+
+@luanabregiatto
+
+![] (![image](https://github.com/user-attachments/assets/be690cb8-224f-4f68-b7de-37c9e44ca372)
+ )
+
